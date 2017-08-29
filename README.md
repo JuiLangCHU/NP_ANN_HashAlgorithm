@@ -7,4 +7,5 @@ This paper proposed a novel hash algorithm for one-way character sequence based 
 Have Fun!
 
 JUI LANG CHU
+
 Aug. 29, 2017
